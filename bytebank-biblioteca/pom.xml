@@ -1,0 +1,9 @@
+<dependencies>
+    <!-- Outras dependências -->
+    <dependency>
+        <groupId>bytebank-biblioteca</groupId>
+        <artifactId>bytebank-1.0.jar</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+    <!-- Outras dependências -->
+</dependencies>

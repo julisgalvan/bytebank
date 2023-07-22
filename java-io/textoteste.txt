@@ -1,0 +1,4 @@
+A exceção "java.io.FileNotFoundException: lorem.txt (No such file or directory)" ocorre quando o programa não consegue encontrar o arquivo especificado. Isso pode ser devido a vários motivos no IntelliJ ou em qualquer outro ambiente de desenvolvimento. Aqui estão algumas possíveis causas e soluções:
+
+
+afafsdfhbsjhgjdkfngkdjfngkdjfngkj
